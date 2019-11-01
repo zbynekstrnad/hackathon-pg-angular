@@ -7,6 +7,7 @@ import { HeadComponent } from './head/head.component';
 import { FooterComponent } from './footer/footer.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { Slice2Component } from './slice2/slice2.component';
+import { QrScanComponent } from './qr-scan/qr-scan.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { Slice2Component } from './slice2/slice2.component';
     HeadComponent,
     FooterComponent,
     TopBarComponent,
-    Slice2Component
+    Slice2Component,
+    QrScanComponent
   ],
   imports: [
     BrowserModule,
