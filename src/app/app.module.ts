@@ -8,6 +8,7 @@ import { FooterComponent } from './footer/footer.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { Slice2Component } from './slice2/slice2.component';
 import { QrScanComponent } from './qr-scan/qr-scan.component';
+import { Slice3Component } from './slice3/slice3.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { QrScanComponent } from './qr-scan/qr-scan.component';
     FooterComponent,
     TopBarComponent,
     Slice2Component,
-    QrScanComponent
+    QrScanComponent,
+    Slice3Component
   ],
   imports: [
     BrowserModule,
