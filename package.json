@@ -24,7 +24,7 @@
     "evrythng-extended": "^4.7.2",
     "i": "^0.3.6",
     "jsqr": "^1.2.0",
-    "npm": "^6.12.1",
+    "npm": "^9.6.6",
     "rxjs": "~6.4.0",
     "scanthng": "^4.0.0",
     "tslib": "^1.10.0",
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.17",
-    "@angular/cli": "~8.3.17",
+    "@angular/cli": "~16.0.0",
     "@angular/compiler-cli": "~8.2.13",
     "@angular/language-service": "~8.2.13",
     "@types/node": "~8.9.4",
